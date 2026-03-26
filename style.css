@@ -1,0 +1,52 @@
+.home
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(226, 226, 248);
+    font-weight: 600;
+}
+h2{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(80, 192, 192);
+}
+
+body{
+    margin: 0;
+    padding: 20 px;
+}
+img{
+    width: 250px;
+    border-radius: 10 px;
+    transition: transform 0.3s ease;
+}
+a img:hover{
+    transform: scale(1.05);
+    cursor: pointer;
+    opacity: 0.85;
+}
+p{
+    font-weight: bolder;
+;
+}
+header{
+    width: 100;
+    background-color: #020617;
+    padding: 20px;
+    text-align: center;
+}
+nav{
+    margin-top: 10px;
+}
+nav a{
+    margin: 0 15px;
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+nav a:hover {
+    color: #38bdf8;
+}
+
+
+    
+
+
